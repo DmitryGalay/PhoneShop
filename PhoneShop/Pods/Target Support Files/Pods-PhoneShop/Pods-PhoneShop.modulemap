@@ -1,0 +1,6 @@
+framework module Pods_PhoneShop {
+  umbrella header "Pods-PhoneShop-umbrella.h"
+
+  export *
+  module * { export * }
+}
